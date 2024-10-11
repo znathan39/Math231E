@@ -1,5 +1,5 @@
-//Math 231E Week 7 Disscussion 2 Worksheet 7A
-//Problem 1.g: Imagine that you had to compute the integral ∫x^64e^xdx. Write out in words the way you would attack this problem inthe most efficient mannner. 
+//Math 231E Week 7 Discussion 2 Worksheet 7A
+//Problem 1 g: Imagine that you had to compute the integral ∫x^64e^xdx. Write out in words the way you would attack this problem in the most efficient manner. 
 //My solution
 
 #include <iostream>
